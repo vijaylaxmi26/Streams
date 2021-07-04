@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "dsvfr",
+      "description": "sdver",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this stream is nice",
+      "id": 2
+    },
+    {
+      "description": "good stream",
+      "title": "other stream",
+      "id": 3
+    },
+    {
+      "title": "coding",
+      "description": "programing is nice",
+      "userId": "108944217246487992401",
+      "id": 4
+    },
+    {
+      "title": "programatic navigation",
+      "description": "hard to impliment",
+      "userId": "108944217246487992401",
+      "id": 5
+    },
+    {
+      "title": "streaming with reusable components",
+      "description": "coponents can be resues",
+      "userId": "108944217246487992401",
+      "id": 6
+    }
+  ]
+}
