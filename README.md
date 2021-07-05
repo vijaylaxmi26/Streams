@@ -25,6 +25,8 @@ npm install --save lodash
 
 npm install --save flv.js
 
+npm install final-form react-final-form
+
 -->api
 
 npm install --save json-server
