@@ -23,6 +23,8 @@ npm install --save axios redux-thunk
 
 npm install --save lodash
 
+npm install --save flv.js
+
 -->api
 
 npm install --save json-server
