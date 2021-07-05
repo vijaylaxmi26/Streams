@@ -22,16 +22,10 @@
       "id": 4
     },
     {
-      "title": "programatic navigation",
-      "description": "hard to impliment",
+      "title": "my new stream",
+      "description": "streams looks better",
       "userId": "108944217246487992401",
       "id": 5
-    },
-    {
-      "title": "streaming with reusable components",
-      "description": "coponents can be resues",
-      "userId": "108944217246487992401",
-      "id": 6
     }
   ]
 }
